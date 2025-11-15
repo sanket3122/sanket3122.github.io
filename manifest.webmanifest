@@ -7,7 +7,7 @@
     "display": "minimal-ui",
     "cacheDigest": "56c8c9d604a50be9bbcb2f8e8b2651f4",
     "icons": [
-        {
+        { 
             "src": "icons/icon-48x48.png?v=56c8c9d604a50be9bbcb2f8e8b2651f4",
             "sizes": "48x48",
             "type": "image/png"
