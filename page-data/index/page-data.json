@@ -115,7 +115,7 @@
                                     "childImageSharp": {
                                         "fluid": {
                                             "tracedSVG": "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='400'%20height='195'%20viewBox='0%200%20400%20195'%20preserveAspectRatio='none'/%3e",
-                                            "aspectRatio": 2.0588235294117645,
+                                            "aspectRatio": 2.0588235294117645, 
                                             "src": "/static/34949fe78af35d1567ce86d3bf347eb2/60290/covid.png",
                                             "srcSet": "/static/34949fe78af35d1567ce86d3bf347eb2/847ef/covid.png 175w,\n/static/34949fe78af35d1567ce86d3bf347eb2/91cba/covid.png 350w,\n/static/34949fe78af35d1567ce86d3bf347eb2/60290/covid.png 700w,\n/static/34949fe78af35d1567ce86d3bf347eb2/f5f50/covid.png 1050w,\n/static/34949fe78af35d1567ce86d3bf347eb2/38674/covid.png 1400w,\n/static/34949fe78af35d1567ce86d3bf347eb2/f5d33/covid.png 1798w",
                                             "srcWebp": "/static/34949fe78af35d1567ce86d3bf347eb2/89afa/covid.webp",
