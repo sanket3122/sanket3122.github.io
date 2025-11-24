@@ -178,11 +178,11 @@
                                     "Postman API",
                                     "Pythonanywhere"
                                 ],
-                                "github": "https://github.com/akashsuper2000/covid19-tracker",
+                                "github": "https://github.com/sanket3122/NoteMaker-Project",
                                 "external": "http://akashsuper2000.pythonanywhere.com/",
                                 "company": "Amrita School Of Engineering"
                             },
-                            "html": "<p>A flask-based web application for tracking the spread of COVID-19. It includes the national and individual state statistics.</p>"
+                            "html": "<p>A full-stack app with notes persisted to BigQuery; cost-optimized storage and 80% faster reads via partitioning and clustering; supports real-time updates.</p>"
                         }
                     },
                     {
