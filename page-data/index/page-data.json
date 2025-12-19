@@ -57,10 +57,10 @@
                                 "title": "MS CS",
                                 "company": "Stony Brook University",
                                 "location": "Stony Brook, New York",
-                                "range": "2022 - 2024",
+                                "range": "2025 - 2027",
                                 "url": "https://www.stonybrook.edu/"
                             },
-                            "html": "<ul>\n<li>Research Assistant at <a href=\"https://ai.stonybrook.edu/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Stony Brook AI institute</a> and <a href=\"https://www3.cs.stonybrook.edu/~cvl/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Computer Vision lab</a>.</li>\n<li>Teaching Assistant for <a href=\"https://bsd7.cs.stonybrook.edu/~cse303/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">CSE 303: Theory of Computation</a>.</li>\n<li>Senator for the <a href=\"https://www.stonybrookgso.org/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Graduate Student Organization</a> during the academic year 2023-2024.</li>\n</ul>"
+                            "html": "<ul>\n<li>Advancing skills in Computer Vision and Deep Learning through hands-on academic projects</li>▸\n<li>Implementing object detection and tracking models as part of graduate-level coursework</li>\n<li>Strengthening foundations in data structures, algorithms, and system design for scalable applications</li></ul>"
                         }
                     },
                     {
@@ -72,7 +72,7 @@
                                 "range": "2018 - 2022",
                                 "url": "https://gcekarad.ac.in/"
                             },
-                            "html": "<ul>\n<li>Grade: 8.5/10 with Distinction.</li>\n<li>Undergraduate Student Researcher at the <a href=\"https://www.amrita.edu/school/engineering/coimbatore/computer-science/resources/smart-spaces-lab\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Smart Spaces Lab</a> and the <a href=\"https://www.amrita.edu/center/tifac-core-cyber-security/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Cyber Security Lab</a>.</li>\n<li><a href=\"https://www.amrita.edu/events/anokha-2020-10th-national-level-techfest/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Technical Events</a> lead and <a href=\"https://nss.gov.in/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">NSS</a> volunteer.</li>\n</ul>"
+                            "html": "<ul>\n<li>Grade: 8.5/10 with Distinction.</li>\n<li>Undergraduate Student Researcher at the <a href=\"https://gcekarad.ac.in/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Startup Club</a>.</li>\n<li><a href=\"https://aavishkar.world/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Technical Events</a> lead and <a href=\"https://nss.gov.in/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">NSS</a> volunteer.</li>\n</ul>"
                         }
                     }
                 ]
@@ -115,7 +115,7 @@
                                     "childImageSharp": {
                                         "fluid": {
                                             "tracedSVG": "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='400'%20height='195'%20viewBox='0%200%20400%20195'%20preserveAspectRatio='none'/%3e",
-                                            "aspectRatio": 2.0588235294117645, 
+                                            "aspectRatio": 2.0588235294117645,
                                             "src": "/static/34949fe78af35d1567ce86d3bf347eb2/60290/covid.png",
                                             "srcSet": "/static/34949fe78af35d1567ce86d3bf347eb2/847ef/covid.png 175w,\n/static/34949fe78af35d1567ce86d3bf347eb2/91cba/covid.png 350w,\n/static/34949fe78af35d1567ce86d3bf347eb2/60290/covid.png 700w,\n/static/34949fe78af35d1567ce86d3bf347eb2/f5f50/covid.png 1050w,\n/static/34949fe78af35d1567ce86d3bf347eb2/38674/covid.png 1400w,\n/static/34949fe78af35d1567ce86d3bf347eb2/f5d33/covid.png 1798w",
                                             "srcWebp": "/static/34949fe78af35d1567ce86d3bf347eb2/89afa/covid.webp",
