@@ -60,7 +60,7 @@
                                 "range": "2025 - 2027",
                                 "url": "https://www.stonybrook.edu/"
                             },
-                            "html": "<ul>\n<li>Advancing skills in Computer Vision and Deep Learning through hands-on academic projects</li>▸\n<li>Implementing object detection and tracking models as part of graduate-level coursework</li>\n<li>Strengthening foundations in data structures, algorithms, and system design for scalable applications</li></ul>"
+                            "html": "<ul>\n<li>Advancing skills in Computer Vision and Deep Learning through hands-on academic projects.</li>\n<li>Implementing object detection and tracking models as part of graduate-level coursework.</li>\n<li>Strengthening foundations in data structures, algorithms, and system design for scalable applications.</li></ul>"
                         }
                     },
                     {
@@ -82,27 +82,28 @@
                     {
                         "node": {
                             "frontmatter": {
-                                "title": "Software Development Engineer Intern",
-                                "company": "Persistent Systems",
-                                "location": "Pune, India",
-                                "range": "January 2022 - July 2022",
-                                "url": "https://www.persistent.com/"
-                            },
-                            "html": "<ul>\n<li>Built backend Node.js/Express APIs for an internal portal, securing endpoints with GCP Service Account auth and improved security posture by 30% with least-privilege IAM for BigQuery read/write.</li>\n<li> Added data validation, cleaning, and tuned tables for faster access, delivering 40% lower query latency.</li>\n</ul>"
-                        }
-                    },
-                    {
-                        "node": {
-                            "frontmatter": {
                                 "title": "Software Development Engineer",
                                 "company": "Capgemini Technology Services India Limited",
                                 "location": "Pune, India",
                                 "range": "August 2022 - August 2023",
                                 "url": "https://www.capgemini.com/"
                             },
-                            "html": "<ul>\n<li>Engineered and administered 75+ Azure SQL databases and AWS RDS instances, handling all provisioning, database cloning, resizing, backups, and restoration.</li>\n<li>Built end-to-end IaC with Terraform + Ansible executed via Azure DevOps to provision and configure 50+ Windows/Linux servers, cutting manual ops by 80% and improving release reliability.</li>\n<li>Developed a health camp booking platform using React, Next.js, Node.js and PostgreSQL, supporting 10k+ bookings across 15+ enterprise clients.</li>\n<li>Managed the complete data lifecycle, from user management (creating users, assigning/revoking roles) to implementing backup/snapshot policies and archiving old tables by achieving 99.90% security compliance.</li>\n<li>Designed and operated 15+ ETL/ELT pipelines on GCP orchestrated with Apache Airflow (scheduling, retries, SLA alerts) to feed analytics in BigQuery/Cloud Storage, boosting data availability and reducing manual runbooks by 70%.</li>\n</ul>"
+                            "html": "<ul>\n<li>Managed 75+ Azure SQL and AWS RDS databases, handling provisioning, scaling, backups, and production-grade disaster recovery.</li>\n<li>Built IaC pipelines using Terraform and Ansible, provisioning 50+ servers and reducing manual operations by ~80%.</li>\n<li>Designed and operated scalable application and data systems, including ETL pipelines and full-stack platforms serving 10k+ users.</li>\n</ul>"
+                        }
+                    },
+                    {
+                        "node": {
+                            "frontmatter": {
+                                "title": "Software Development Engineer Intern",
+                                "company": "Persistent Systems",
+                                "location": "Pune, India",
+                                "range": "January 2022 - July 2022",
+                                "url": "https://www.persistent.com/"
+                            },
+                            "html": "<ul>\n<li>Engineered Node.js/Express REST APIs with GCP Service Account authentication, enforcing least-privilege IAM for BigQuery read/write and improving security posture by ~30%.</li>\n<li>Implemented data validation, cleansing, and BigQuery table optimization, reducing query latency by ~40% through schema and access-pattern tuning.</li>\n</ul>"
                         }
                     }
+
                 ]
             },
             "featured": {
