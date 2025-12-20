@@ -103,7 +103,6 @@
                             "html": "<ul>\n<li>Engineered Node.js/Express REST APIs with GCP Service Account authentication, enforcing least-privilege IAM for BigQuery read/write and improving security posture by ~30%.</li>\n<li>Implemented data validation, cleansing, and BigQuery table optimization, reducing query latency by ~40% through schema and access-pattern tuning.</li>\n</ul>"
                         }
                     }
-
                 ]
             },
             "featured": {
@@ -111,7 +110,7 @@
                     {
                         "node": {
                             "frontmatter": {
-                                "title": "COVID-19 Dashboard",
+                                "title": "AgriLink (Kisan Portal)",
                                 "cover": {
                                     "childImageSharp": {
                                         "fluid": {
@@ -126,21 +125,23 @@
                                     }
                                 },
                                 "tech": [
-                                    "Python",
-                                    "Flask",
-                                    "Postman API",
-                                    "Pythonanywhere"
+                                    "React",
+                                    "Tailwind CSS",
+                                    "Redux",
+                                    "Node.js",
+                                    "Express",
+                                    "MongoDB"
                                 ],
                                 "github": "https://github.com/sanket3122/NoteMaker-Project",
                                 "external": "https://github.com/sanket3122/NoteMaker-Project"
                             },
-                            "html": "<p>A full-stack app with notes persisted to BigQuery; cost-optimized storage and 80% faster reads via partitioning and clustering; supports real-time updates.</p>"
+                            "html": "<p>AgriLink is a full-stack web platform connecting farmers directly with consumers, enabling transparent, localized produce discovery and ordering. A role-based marketplace that supports farmer onboarding, product listings, real-time messaging, and secure order requests through a centralized admin system.</p>"
                         }
                     },
                     {
                         "node": {
                             "frontmatter": {
-                                "title": "Faculty Dashboard",
+                                "title": "Note Taker (Full-Stack Data Application)",
                                 "cover": {
                                     "childImageSharp": {
                                         "fluid": {
@@ -157,21 +158,21 @@
                                 "tech": [
                                     "React",
                                     "Node.js",
-                                    "MySQL",
                                     "Express",
-                                    "GitHub",
-                                    "Heroku"
+                                    "MongoDB",
+                                    "GCP Cloud Functions",
+                                    "REST APIs"
                                 ],
-                                "github": "https://github.com/akashsuper2000/faculty-dashboard",
-                                "external": "https://akashsuper2000.github.io/faculty-dashboard"
+                                "github": "https://github.com/sanket3122/NoteMaker-Project",
+                                "external": "https://github.com/sanket3122/NoteMaker-Project"
                             },
-                            "html": "<p>A Full Stack Web application dashboard for faculties that include Profile view, Course Management, Leave Management, Recent Announcements and Time Table view.</p>"
+                            "html": "<p Note Taker is a full-stack web application implementing modular REST APIs for real-time data handling and structured CRUD operations. An event-driven backend leverages GCP Cloud Functions to trigger automated email notifications, improving system reliability by ~60%.</p>"
                         }
                     },
                     {
                         "node": {
                             "frontmatter": {
-                                "title": "Voice Ticket Booking System",
+                                "title": "GPT-2 (124M) Training & Reproduction",
                                 "cover": {
                                     "childImageSharp": {
                                         "fluid": {
@@ -186,17 +187,17 @@
                                     }
                                 },
                                 "tech": [
-                                    "React",
-                                    "Node.js",
-                                    "MySQL",
-                                    "Express",
-                                    "GitHub",
-                                    "Heroku"
+                                    "PyTorch",
+                                    "Transformers",
+                                    "Datasets",
+                                    "tiktoken",
+                                    "Distributed Data Parallel (DDP)",
+                                    "CUDA"
                                 ],
-                                "github": "https://github.com/akashsuper2000/voice-enquiry-booking-system",
-                                "external": "https://delosdest.herokuapp.com"
+                                "github": "https://github.com/sanket3122/GPT",
+                                "external": "https://github.com/sanket3122/GPT"
                             },
-                            "html": "<p>A Full Stack Web application that allows users to book bus tickets through the website or the mobile app with full voice support. It also comes with an admin interface with included voice support.</p>"
+                            "html": "<p>GPT-2 (124M) is a minimal, high-performance training framework for reproducing and fine-tuning medium-scale Transformer language models. The project implements a concise, readable GPT architecture and training loop, supporting distributed training with PyTorch DDP and scalable execution across multi-GPU nodes.</p>"
                         }
                     },
                     {
