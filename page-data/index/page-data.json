@@ -116,10 +116,10 @@
                                         "fluid": {
                                             "tracedSVG": "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='400'%20height='195'%20viewBox='0%200%20400%20195'%20preserveAspectRatio='none'/%3e",
                                             "aspectRatio": 2.0588235294117645,
-                                            "src": "/static/34949fe78af35d1567ce86d3bf347eb2/60290/covid.png",
-                                            "srcSet": "/static/34949fe78af35d1567ce86d3bf347eb2/847ef/covid.png 175w,\n/static/34949fe78af35d1567ce86d3bf347eb2/91cba/covid.png 350w,\n/static/34949fe78af35d1567ce86d3bf347eb2/60290/covid.png 700w,\n/static/34949fe78af35d1567ce86d3bf347eb2/f5f50/covid.png 1050w,\n/static/34949fe78af35d1567ce86d3bf347eb2/38674/covid.png 1400w,\n/static/34949fe78af35d1567ce86d3bf347eb2/f5d33/covid.png 1798w",
-                                            "srcWebp": "/static/34949fe78af35d1567ce86d3bf347eb2/89afa/covid.webp",
-                                            "srcSetWebp": "/static/34949fe78af35d1567ce86d3bf347eb2/9fca7/covid.webp 175w,\n/static/34949fe78af35d1567ce86d3bf347eb2/37a4e/covid.webp 350w,\n/static/34949fe78af35d1567ce86d3bf347eb2/89afa/covid.webp 700w,\n/static/34949fe78af35d1567ce86d3bf347eb2/78e7a/covid.webp 1050w,\n/static/34949fe78af35d1567ce86d3bf347eb2/03d34/covid.webp 1400w,\n/static/34949fe78af35d1567ce86d3bf347eb2/dc176/covid.webp 1798w",
+                                            "src": "/static/34949fe78af35d1567ce86d3bf347eb2/60290/kisan.png",
+                                            "srcSet": "/static/34949fe78af35d1567ce86d3bf347eb2/847ef/kisan.png 175w,\n/static/34949fe78af35d1567ce86d3bf347eb2/91cba/kisan.png 350w,\n/static/34949fe78af35d1567ce86d3bf347eb2/60290/kisan.png 700w,\n/static/34949fe78af35d1567ce86d3bf347eb2/f5f50/kisan.png 1050w,\n/static/34949fe78af35d1567ce86d3bf347eb2/38674/kisan.png 1400w,\n/static/34949fe78af35d1567ce86d3bf347eb2/f5d33/kisan.png 1798w",
+                                            "srcWebp": "/static/34949fe78af35d1567ce86d3bf347eb2/89afa/kisan.webp",
+                                            "srcSetWebp": "/static/34949fe78af35d1567ce86d3bf347eb2/9fca7/kisan.webp 175w,\n/static/34949fe78af35d1567ce86d3bf347eb2/37a4e/kisan.webp 350w,\n/static/34949fe78af35d1567ce86d3bf347eb2/89afa/kisan.webp 700w,\n/static/34949fe78af35d1567ce86d3bf347eb2/78e7a/kisan.webp 1050w,\n/static/34949fe78af35d1567ce86d3bf347eb2/03d34/kisan.webp 1400w,\n/static/34949fe78af35d1567ce86d3bf347eb2/dc176/kisan.webp 1798w",
                                             "sizes": "(max-width: 700px) 100vw, 700px"
                                         }
                                     }
