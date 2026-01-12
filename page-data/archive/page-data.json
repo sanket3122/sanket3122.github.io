@@ -78,24 +78,24 @@
                             "html": "<p>The task is to train football agents that compete against one another.</p>"
                         }
                     },
-                    {
-                        "node": {
-                            "frontmatter": {
-                                "date": "2020-12-1",
-                                "title": "Social Outreach Program",
-                                "tech": [
-                                    "Java",
-                                    "JSP",
-                                    "Servlets",
-                                    "MySQL"
-                                ],
-                                "github": "https://github.com/akashsuper2000/ncp-project",
-                                "external": "https://akashsuper2000.github.io/ncp-project/",
-                                "company": "Amrita School Of Engineering"
-                            },
-                            "html": "<p>A Java based web application for a generic Social Outreach program. Features an Admin dashboard, a payments portal and a feedback portal.</p>"
-                        }
-                    },
+                    // {
+                    //     "node": {
+                    //         "frontmatter": {
+                    //             "date": "2020-12-1",
+                    //             "title": "Social Outreach Program",
+                    //             "tech": [
+                    //                 "Java",
+                    //                 "JSP",
+                    //                 "Servlets",
+                    //                 "MySQL"
+                    //             ],
+                    //             "github": "https://github.com/akashsuper2000/ncp-project",
+                    //             "external": "https://akashsuper2000.github.io/ncp-project/",
+                    //             "company": "Amrita School Of Engineering"
+                    //         },
+                    //         "html": "<p>A Java based web application for a generic Social Outreach program. Features an Admin dashboard, a payments portal and a feedback portal.</p>"
+                    //     }
+                    // },
                     {
                         "node": {
                             "frontmatter": {
@@ -150,23 +150,23 @@
                             "html": "<p>The task is to create a model that predicts the number of ion channels open at any given point of time.</p>"
                         }
                     },
-                    {
-                        "node": {
-                            "frontmatter": {
-                                "date": "2020-05-26",
-                                "title": "Tweet Sentiment Extraction",
-                                "tech": [
-                                    "Python",
-                                    "Sklearn",
-                                    "PyTorch"
-                                ],
-                                "github": "",
-                                "external": "https://www.kaggle.com/c/tweet-sentiment-extraction",
-                                "company": "Kaggle"
-                            },
-                            "html": "<p>The task is to create a model that extracts the text phrases that support a sentiment.</p>"
-                        }
-                    },
+                    // {
+                    //     "node": {
+                    //         "frontmatter": {
+                    //             "date": "2020-05-26",
+                    //             "title": "Tweet Sentiment Extraction",
+                    //             "tech": [
+                    //                 "Python",
+                    //                 "Sklearn",
+                    //                 "PyTorch"
+                    //             ],
+                    //             "github": "",
+                    //             "external": "https://www.kaggle.com/c/tweet-sentiment-extraction",
+                    //             "company": "Kaggle"
+                    //         },
+                    //         "html": "<p>The task is to create a model that extracts the text phrases that support a sentiment.</p>"
+                    //     }
+                    // },
                     {
                         "node": {
                             "frontmatter": {
