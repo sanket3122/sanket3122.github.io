@@ -9,20 +9,18 @@
                         "node": {
                             "frontmatter": {
                                 "date": "2023-3-1",
-                                "title": "Note Taker (Full-Stack Data Application)",
+                                "title": "Note Taker (Full-Stack Web App)",
                                 "tech": [
                                     "React",
                                     "Node.js",
-                                    "Express",
-                                    "MongoDB",
-                                    "GCP Cloud Functions",
-                                    "REST APIs"
+                                    "Go (Raft, WAL)",
+                                    "GCP (Airflow, BigQuery)"
                                 ],
-                                "github": "https://github.com/sanket3122/NoteMaker-Project",
-                                "external": "https://github.com/sanket3122/NoteMaker-Project",
+                                "github": "https://github.com/sanket3122/NoteMaker-Project-main",
+                                "external": "https://github.com/sanket3122/NoteMaker-Project-main",
                                 "company": "Capgemini Technology Services"
                             },
-                            "html": "<p Note Taker is a full-stack web application implementing modular REST APIs for real-time data handling and structured CRUD operations. An event-driven backend leverages GCP Cloud Functions to trigger automated email notifications, improving system reliability by ~60%.</p>"
+                            "html": "<p> Note-Taker is a full-stack distributed systems notes platform where writes route to a Raft leader and replicate across a 5-node Go cluster with WAL durability for crash recovery. Note-Taker includes an export and analytics pipeline on GCP using least-privilege IAM service accounts. Airflow schedules Cloud Storage JSON backups and BigQuery inserts.</p>"
                         }
                     },
                     {
@@ -267,7 +265,7 @@
                         "node": {
                             "frontmatter": {
                                 "date": "2025-09-1",
-                                "title": "GPT-2 (124M) Training & Reproduction",
+                                "title": "GPT-2 Training & Reproduction",
                                 "tech": [
                                     "PyTorch",
                                     "Transformers",
