@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://akashsuper2000.github.io/sitemap-index.xml
-Host: https://akashsuper2000.github.io
+Sitemap: https://sanket3122.github.io/sitemap-index.xml
+Host: https://sanket3122.github.io
