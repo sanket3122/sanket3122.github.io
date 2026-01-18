@@ -79,19 +79,19 @@
                     {
                         "node": {
                             "frontmatter": {
-                                "date": "2020-12-1",
-                                "title": "Social Outreach Program",
+                                "date": "2022-12-1",
+                                "title": "AlgoViz",
                                 "tech": [
-                                    "Java",
-                                    "JSP",
-                                    "Servlets",
-                                    "MySQL"
+                                    "Node",
+                                    "JavaScript",
+                                    "HTML5",
+                                    "EJS"
                                 ],
-                                "github": "https://github.com/akashsuper2000/ncp-project",
-                                "external": "https://akashsuper2000.github.io/ncp-project/",
-                                "company": "Amrita School Of Engineering"
+                                "github": "https://github.com/sanket3122/AlgoViz-Data-Structure-Visualization-master-2",
+                                "external": "https://github.com/sanket3122/AlgoViz-Data-Structure-Visualization-master-2",
+                                "company": "Government College Of engineering, Karad"
                             },
-                            "html": "<p>A Java based web application for a generic Social Outreach program. Features an Admin dashboard, a payments portal and a feedback portal.</p>"
+                            "html": "<p>Visualising data structures and algorithms through animation. AlgoViz is a web platform that lets you see how core DS & Algo concepts work – step-by-step, with controls for input, speed, and operations.</p>"
                         }
                     },
                     {
