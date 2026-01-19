@@ -1,0 +1,9 @@
+#logo { display: none !important; }
+
+header nav a[aria-label="home"]::before {
+  content: "";
+  width: 42px;
+  height: 42px;
+  display: inline-block;
+  background: url("/Icons1/icon-96x96.png") no-repeat center / contain;
+}

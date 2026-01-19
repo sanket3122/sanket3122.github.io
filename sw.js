@@ -12,6 +12,9 @@
  */
 
 importScripts("workbox-v4.3.1/workbox-sw.js");
+
+
+
 workbox.setConfig({modulePathPrefix: "workbox-v4.3.1"});
 
 workbox.core.setCacheNameDetails({prefix: "gatsby-plugin-offline"});
@@ -19,6 +22,44 @@ workbox.core.setCacheNameDetails({prefix: "gatsby-plugin-offline"});
 workbox.core.skipWaiting();
 
 workbox.core.clientsClaim();
+
+
+/* ✅ PASTE START: inject override.css into every HTML page */
+self.addEventListener("fetch", (event) => {
+  const req = event.request;
+
+  // Only for page navigations (HTML)
+  const isHtml =
+    req.mode === "navigate" ||
+    (req.headers.get("accept") || "").includes("text/html");
+
+  if (!isHtml) return;
+
+  event.respondWith(
+    (async () => {
+      const res = await fetch(req);
+      const contentType = res.headers.get("content-type") || "";
+      if (!contentType.includes("text/html")) return res;
+
+      let html = await res.text();
+
+      if (!html.includes('/override.css')) {
+        html = html.replace(
+          "</head>",
+          `<link rel="stylesheet" href="/override.css" />\n</head>`
+        );
+      }
+
+      return new Response(html, {
+        status: res.status,
+        statusText: res.statusText,
+        headers: res.headers,
+      });
+    })()
+  );
+});
+/* ✅ PASTE END */
+
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
