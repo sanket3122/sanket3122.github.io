@@ -88,7 +88,7 @@
                                 "range": "August 2022 - August 2025",
                                 "url": "https://www.capgemini.com/"
                             },
-                            "html": "<ul>\n<li>Built end-to-end IaC with Terraform and Ansible in Azure DevOps for 100+ Windows/Linux servers, cutting manual ops by ~80% and stabilizing releases.</li>\n<li>Developed a health-camp booking platform with React, Next.js, Node.js, and PostgreSQL, processing 10k+ bookings across 15+ enterprise clients.</li>\n<li>Engineered and administered 200+ Azure SQL and AWS RDS databases, covering provisioning, cloning, scaling, backups, and restores.</li>\n</ul>"
+                            "html": "<ul>\n<li>Deployed a microservices-based platform with Spring Boot and Docker, exposing RESTful APIs for Terraform and Ansible execution, provisioning 100+ cloud instances and reducing manual deployment overhead by 80%.</li>\n<li>Enhanced a high-throughput booking platform using React, Next.js, Node.js, and PostgreSQL with Redis caching, processing 10k+ bookings across 15+ enterprise clients and optimizing indexing to reduce API latency.</li>\n<li>Built a database platform with Node.js microservices and PostgreSQL, automating end-to-end lifecycle operations for 200+ cloud databases including backups, restores, and intelligent archival.</li>\n<li>Optimized scalable data pipelines on GCP using Python, Apache Airflow, and Dataflow, implementing fault-tolerant ETL workflows with BigQuery integration and reducing data latency by 70% through parallel processing.</li>\n</ul>"
                         }
                     },
                     {
@@ -100,7 +100,7 @@
                                 "range": "January 2022 - July 2022",
                                 "url": "https://www.persistent.com/"
                             },
-                            "html": "<ul>\n<li>Built backend Node.js/Express APIs for an internal portal, securing endpoints with GCP Service Account and improving security posture by 30% with least-privilege IAM for BigQuery read/write access.</li>\n<li>Added data validation, cleaning, and tuned tables for faster access, delivering 40% lower query latency.</li>\n</ul>"
+                            "html": "<ul>\n<li>Configured backend Node.js/Express APIs for an internal portal, implementing GCP Service Account authentication with least-privilege IAM for BigQuery access, improving security posture by 30%.</li>\n<li>Optimized BigQuery schemas using partitioning, clustering, and materialized views, reducing query latency by 40% through automated validation pipelines and data cleaning workflows.</li>\n</ul>"
                         }
                     }
                 ]
@@ -229,8 +229,7 @@
                 ]
             },
             "projects": {
-                "edges": [
-                ]
+                "edges": []
             },
             "contact": {
                 "edges": [
