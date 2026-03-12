@@ -23,7 +23,48 @@
                             "html": "<p> Note-Taker is a full-stack distributed systems notes platform where writes route to a Raft leader and replicate across a 5-node Go cluster with WAL durability for crash recovery. Note-Taker includes an export and analytics pipeline on GCP using least-privilege IAM service accounts. Airflow schedules Cloud Storage JSON backups and BigQuery inserts.</p>"
                         }
                     },
-                    
+                    {
+                        "node": {
+                            "frontmatter": {
+                                "date": "2025-06-1",
+                                "title": "ReelyAI - AI-Powered Reel Generator",
+                                "tech": [
+                                    "Python",
+                                    "Flask",
+                                    "Redis",
+                                    "FFmpeg",
+                                    "ElevenLabs API",
+                                    "Docker",
+                                    "Nginx",
+                                    "AWS EC2"
+                                ],
+                                "github": "https://github.com/sanket3122/ReelyAI-main",
+                                "external": "https://github.com/sanket3122/ReelyAI-main",
+                                "company": "Stony Brook University"
+                            },
+                            "html": "<p>ReelyAI is a production-grade asynchronous media pipeline that orchestrates ElevenLabs TTS and AI music generation via Redis and RQ workers, rendering mixed media into 1080x1920 MP4s through FFmpeg. Deployed on AWS EC2 with Docker Compose and Nginx, featuring GitHub Actions CI/CD and a creator-facing UI with real-time job status polling.</p>"
+                        }
+                    },
+                    {
+                        "node": {
+                            "frontmatter": {
+                                "date": "2024-08-1",
+                                "title": "SHOPLOOK - Deep Learning Visual Retrieval System",
+                                "tech": [
+                                    "Python",
+                                    "TensorFlow",
+                                    "Keras",
+                                    "YOLOv4",
+                                    "ResNet50",
+                                    "MediaPipe"
+                                ],
+                                "github": "https://drive.google.com/file/d/1MbpXq10pUtYQb3LeFGBCvmq7ngBp9pbV/view?usp=sharing",
+                                "external": "https://drive.google.com/file/d/1MbpXq10pUtYQb3LeFGBCvmq7ngBp9pbV/view?usp=sharing",
+                                "company": "Stony Brook University"
+                            },
+                            "html": "<p>SHOPLOOK is an end-to-end computer vision pipeline for fashion retrieval, combining MediaPipe BlazePose, YOLOv4 trained on DeepFashion2, and ResNet50 for feature extraction. Indexes 44,441 product images and uses KNN to serve top-6 visually similar recommendations.</p>"
+                        }
+                    },
                     {
                         "node": {
                             "frontmatter": {
@@ -42,7 +83,6 @@
                             "html": "<p>Visualising data structures and algorithms through animation. AlgoViz is a web platform that lets you see how core DS & Algo concepts work – step-by-step, with controls for input, speed, and operations.</p>"
                         }
                     },
-                   
                     {
                         "node": {
                             "frontmatter": {
@@ -63,7 +103,6 @@
                             "html": "<p>AgriLink is a full-stack web platform connecting farmers directly with consumers, enabling transparent, localized produce discovery and ordering. A role-based marketplace that supports farmer onboarding, product listings, real-time messaging, and secure order requests through a centralized admin system.</p>"
                         }
                     },
-                   
                     {
                         "node": {
                             "frontmatter": {
